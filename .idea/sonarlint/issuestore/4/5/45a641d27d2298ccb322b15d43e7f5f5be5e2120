@@ -1,0 +1,11 @@
+
+P
+java:S1854":Remove this useless assignment to local variable "ultimo".(éú×Å
+[
+java:S1659"EDeclare "posicion" and all following declarations on a separate line.(î¶¤Û
+N	java:S106	"9Replace this use of System.out or System.err by a logger.(ÔÕ¥˜
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÔœË›
+N	java:S106"9Replace this use of System.out or System.err by a logger.(œ¥ç
+S	java:S106"9Replace this use of System.out or System.err by a logger.(•×¢†øÿÿÿÿ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(å¸•òÿÿÿÿÿ

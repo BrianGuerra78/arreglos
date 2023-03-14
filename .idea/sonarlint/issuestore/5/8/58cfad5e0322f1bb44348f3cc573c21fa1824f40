@@ -1,0 +1,14 @@
+
+X
+java:S1659"BDeclare "pares" and all following declarations on a separate line.(ÎÕùÛ
+@
+java:S1659	"*Declare "totalInpares" on a separate line.(˜ú´Ï
+5
+java:S1659"Declare "k" on a separate line.(ÙÏÉÄ
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(„•šò
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(å·»Ãüÿÿÿÿ
+N	java:S106""9Replace this use of System.out or System.err by a logger.(ôÚ¤
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(Ó¨Áşûÿÿÿÿ
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(‰ÖÉ
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8äñÒàÀ0
